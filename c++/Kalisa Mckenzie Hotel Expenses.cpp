@@ -1,5 +1,4 @@
 //CS 244 MIDTRM PART 1 
-//Due October 25!!!
 
 //pseudocode: 
 //Datatypes to use: void intro(), void parking, void hotel , void trip_length, void total_average, void trip_times, void trip_Airfare, void Miles_Driven, void reg_fees, void_taxi_fees, void display
