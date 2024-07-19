@@ -1,7 +1,7 @@
 // This program will read in prices and store them into a two-dimensional array.
 // It will print those prices in a table form.
 
-// PLACE YOUR NAME HERE
+// Kalisa Mckenzie
 
 #include <iostream>
 #include <iomanip>
